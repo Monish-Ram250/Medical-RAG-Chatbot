@@ -263,10 +263,3 @@ Computer Science Engineering Student
 
 **Interests:** Artificial Intelligence • Machine Learning • Deep Learning • Generative AI • Large Language Models • Retrieval-Augmented Generation
 
-**Live Demo**
-
-https://huggingface.co/spaces/Monishram99/Medical-Chatbot
-
----
-
-If you found this project useful, consider giving it a Star on GitHub.
