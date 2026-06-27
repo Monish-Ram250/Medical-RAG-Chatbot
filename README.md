@@ -1,4 +1,4 @@
-# 🩺 Medical RAG Chatbot
+# Medical RAG Chatbot
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 
 The **Medical RAG Chatbot** is an AI-powered application that answers medical questions by retrieving relevant information from a medical knowledge base and generating accurate, context-aware responses using a Large Language Model (LLM).
 
-### 🚀 Live Demo
+### Live Demo
 
 **Hugging Face Space:**
 https://huggingface.co/spaces/Monishram99/Medical-Chatbot
@@ -15,7 +15,7 @@ https://huggingface.co/spaces/Monishram99/Medical-Chatbot
 
 ---
 
-# 📖 Overview
+# Overview
 
 Medical RAG Chatbot is an end-to-end Retrieval-Augmented Generation (RAG) application that enables users to ask medical questions and receive context-aware answers from a medical reference document.
 
@@ -25,22 +25,22 @@ The project combines modern Generative AI technologies including LangChain, Hugg
 
 ---
 
-# ✨ Features
+# Features
 
-* 📄 Medical PDF-based Question Answering
-* 🧠 Retrieval-Augmented Generation (RAG)
-* 🔍 Semantic Similarity Search
-* 📚 Pinecone Vector Database
-* 🤖 Groq Llama-3.3-70B Versatile
-* ⚡ Fast AI Response Generation
-* 🌐 Interactive Gradio Interface
-* ☁️ Deployed on Hugging Face Spaces
-* 🔐 Secure API Key Management
-* 📈 Modular and Scalable Architecture
+* Medical PDF-based Question Answering
+* Retrieval-Augmented Generation (RAG)
+* Semantic Similarity Search
+* Pinecone Vector Database
+* Groq Llama-3.3-70B Versatile
+* Fast AI Response Generation
+* Interactive Gradio Interface
+* Deployed on Hugging Face Spaces
+* Secure API Key Management
+* Modular and Scalable Architecture
 
 ---
 
-# 🏗️ System Architecture
+# System Architecture
 
 ```text
                      Medical PDF
@@ -78,7 +78,7 @@ The project combines modern Generative AI technologies including LangChain, Hugg
 
 ---
 
-# ⚙️ Technology Stack
+# Technology Stack
 
 | Category              | Technology                                            |
 | --------------------- | ----------------------------------------------------- |
@@ -93,7 +93,7 @@ The project combines modern Generative AI technologies including LangChain, Hugg
 
 ---
 
-# 🔄 Project Workflow
+# Project Workflow
 
 ### Step 1
 
@@ -149,7 +149,7 @@ Display the answer through the Gradio web interface.
 
 ---
 
-# 📁 Project Structure
+# Project Structure
 
 ```text
 Medical-RAG/
@@ -162,7 +162,7 @@ Medical-RAG/
 
 ---
 
-# 🔑 Environment Variables
+# Environment Variables
 
 The application requires the following environment variables:
 
@@ -175,7 +175,7 @@ The application requires the following environment variables:
 
 ---
 
-# ▶️ Running the Application
+# Running the Application
 
 Run the application locally:
 
@@ -185,17 +185,17 @@ python app.py
 
 ---
 
-# ☁️ Deployment
+# Deployment
 
-The application is deployed on **Hugging Face Spaces**.
+The application is deployed on Hugging Face Spaces.
 
-### 🌐 Live Demo
+**Live Demo**
 
 https://huggingface.co/spaces/Monishram99/Medical-Chatbot
 
 ---
 
-# 💬 Example Questions
+# Example Questions
 
 * What is diabetes?
 * What are the symptoms of asthma?
@@ -208,7 +208,7 @@ https://huggingface.co/spaces/Monishram99/Medical-Chatbot
 
 ---
 
-# 🚀 Future Improvements
+# Future Improvements
 
 * Multi-document support
 * Parent Document Retriever
@@ -223,7 +223,7 @@ https://huggingface.co/spaces/Monishram99/Medical-Chatbot
 
 ---
 
-# 📚 Concepts Demonstrated
+# Concepts Demonstrated
 
 * Retrieval-Augmented Generation (RAG)
 * Semantic Search
@@ -238,7 +238,7 @@ https://huggingface.co/spaces/Monishram99/Medical-Chatbot
 
 ---
 
-# 📦 Libraries Used
+# Libraries Used
 
 * LangChain
 * Pinecone
@@ -249,13 +249,13 @@ https://huggingface.co/spaces/Monishram99/Medical-Chatbot
 
 ---
 
-# 📄 License
+# License
 
 This project is intended for educational and learning purposes only.
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **Monish Ram**
 
@@ -263,7 +263,10 @@ Computer Science Engineering Student
 
 **Interests:** Artificial Intelligence • Machine Learning • Deep Learning • Generative AI • Large Language Models • Retrieval-Augmented Generation
 
-### 🌐 Live Demo
+**Live Demo**
 
 https://huggingface.co/spaces/Monishram99/Medical-Chatbot
 
+---
+
+If you found this project useful, consider giving it a Star on GitHub.
