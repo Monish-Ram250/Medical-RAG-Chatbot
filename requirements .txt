@@ -1,0 +1,12 @@
+gradio
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-groq
+langchain-pinecone
+pinecone
+sentence-transformers
+python-dotenv
+pypdf
+torch
