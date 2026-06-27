@@ -185,16 +185,6 @@ python app.py
 
 ---
 
-# Deployment
-
-The application is deployed on Hugging Face Spaces.
-
-**Live Demo**
-
-https://huggingface.co/spaces/Monishram99/Medical-Chatbot
-
----
-
 # Example Questions
 
 * What is diabetes?
